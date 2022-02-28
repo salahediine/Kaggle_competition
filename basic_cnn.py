@@ -1,6 +1,6 @@
 model = Sequential()
 
-#1 block
+#1 block1
 model.add(Conv2D(filters=16,kernel_size=(3,3), padding='same',use_bias=False,input_shape=(299,299,3),
          activation = 'relu'))
 model.add(Conv2D(filters=16,kernel_size=(3,3), padding='same',use_bias=False,input_shape=(299,299,3),
