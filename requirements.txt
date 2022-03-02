@@ -1,0 +1,21 @@
+bokeh 
+keras==2.7.0
+Keras-Preprocessing==1.1.2
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+numpy==1.22.2
+pandas 
+pep8==1.7.1
+pylint @ file:///C:/ci/pylint_1617136058775/work
+pywin32==227
+pywin32-ctypes==0.2.0
+pywinpty==0.5.7
+PyYAML==5.4.1
+pyzmq==20.0.0
+scikit-image==0.18.1
+scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
+scipy @ file:///C:/ci/scipy_1618856128765/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+sklearn
+tensorflow==2.7.0
+tensorflow-estimator==2.7.0
+tensorflow-io-gcs-filesystem==0.23.1
